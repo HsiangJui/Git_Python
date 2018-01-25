@@ -16,10 +16,14 @@ class ListTupleDictSet(object):
         '''
         
     def ListFunc(self):
+        pass
         
     def TupleFunc(self):
-        
+        pass
+    
     def DictionaryFunc(self):
-        
+        pass
+    
     def SetFunc(self):
-        
+        pass
+    
